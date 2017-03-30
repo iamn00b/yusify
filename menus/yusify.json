@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle yusify",
+        "command": "yusify:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "yusify",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "yusify:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

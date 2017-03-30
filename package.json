@@ -1,0 +1,18 @@
+{
+  "name": "yusify",
+  "main": "./lib/yusify",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "yusify:toggle"
+  },
+  "repository": "https://github.com/atom/yusify",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
